@@ -1,0 +1,756 @@
+# Translation of Plugins - Kirki Customizer Framework - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Kirki Customizer Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-12 10:40:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Kirki Customizer Framework - Stable (latest release)\n"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr "Помилка"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "You do not have permission to install plugin updates"
+msgstr "Ви не маєте дозволу на встановлення оновлень плагінів"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr "Оновити зараз."
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:241
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sПереглянути версію %2$s з деталями %3$s або %4$sоновити зараз%5$s."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:233
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sПереглянути деталі версії %2$s%3$s."
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:228
+msgid "Contact your network administrator to install the update."
+msgstr "Будь ласка, зверніться до мережевого адміністратора, щоб встановити оновлення."
+
+#. translators: the plugin name.
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:222
+msgid "There is a new version of %1$s available."
+msgstr "Доступна нова версія %1$s."
+
+#: customizer/packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Налаштування"
+
+#: customizer/packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "Інструментарій №1 для розробників тем WordPress."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "У наступній статті наведено докладний опис параметра Очистити кеш шрифтів у Kirki."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Для отримання додаткової інформації, будь ласка, зверніться до документації вашої теми."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:27
+#: customizer/packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Документація"
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Він надає розширені можливості налаштування в WordPress Customizer, що дозволяє вам легко змінювати зовнішній вигляд вашого сайту."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki - це ключовий компонент встановленої вами теми WordPress."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "Чому я це бачу?"
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Очистити кеш"
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Це безпечно робити на виробничих сайтах."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Якщо шрифти Google, вибрані в Налаштовувачі, відображаються некоректно, спробуйте очистити кеш шрифтів."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Щоб досягти відповідності GDPR, Kirki зберігає шрифти Google локально на вашому сервері."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Очистити кеш шрифтів"
+
+#: customizer/packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: customizer/packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "Сповіщення про знижку було відхилено"
+
+#: customizer/packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "У вас немає можливості виконати цю дію"
+
+#: customizer/packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Невірний nonce"
+
+#. Author of the plugin
+#: kirki.php
+msgid "Themeum"
+msgstr "Themeum"
+
+#. translators: %s is the limit of selection number.
+#: customizer/packages/controls/react-select/src/Control/ReactSelect.php:168
+msgid "You can only select %s items"
+msgstr "Можете вибрати лише %s елементів"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Початкові"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Хвиляcтий"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Суцільний"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Колір шрифту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Варіант шрифту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:124
+#: customizer/packages/fields/typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:120
+#: customizer/packages/fields/typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:116
+#: customizer/packages/fields/typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Курсив"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:112
+#: customizer/packages/fields/typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Звичайний"
+
+#: customizer/packages/controls/react-select/src/Control/ReactSelect.php:161
+msgid "Select..."
+msgstr "Виберіть..."
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Віджети"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Таксономії"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Товари"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Соцмережі"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Сортування"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Записи"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Редагування зображення"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Медіафайли"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Формати допису"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Екран привітання"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Меню адміністратора"
+
+#: customizer/packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "Не показуйте це знову"
+
+#: customizer/packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Встановити плагін"
+
+#: customizer/packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Ваша тема використовує шрифт Font Awesome для іконок. Щоб уникнути проблем з відсутніми іконками у вашому інтерфейсі, ми рекомендуємо встановити офіційний плагін Font Awesome."
+
+#. Description of the plugin
+#: kirki.php
+msgid "The Ultimate WordPress Customizer Framework"
+msgstr "Найкращий фреймворк налаштування WordPress"
+
+#. Plugin Name of the plugin
+#: kirki.php customizer/packages/settings/src/SetupSettings.php:54
+#: customizer/packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: customizer/packages/controls/image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Виберіть зображення"
+
+#: customizer/packages/controls/image/src/Control/Image.php:82
+#: customizer/packages/controls/image/src/Field/Image.php:115
+#: customizer/packages/controls/image/dist/control.js:1
+msgid "No image selected"
+msgstr "Зображення не вибрано"
+
+#: customizer/packages/controls/image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Змінити зображення"
+
+#: customizer/packages/controls/image/src/Control/Image.php:89
+#: customizer/packages/controls/image/src/Field/Image.php:111
+#: customizer/packages/controls/image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Виберіть зображення"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Перекреслення"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Надрядковий"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Підкреслений"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Оформлення тексту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Шрифти Google"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Стандартні шрифти"
+
+#: customizer/packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s або %2$s"
+
+#: customizer/packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki поля не повинні додаватися до customize_register. Будь ласка, додайте їх безпосередньо або під час ініціалізації."
+
+#: customizer/packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Ми виявили, що ви використовуєте Kirki\\Compatibility\\Init::get_variables(). Натомість використовуйте \\Kirki\\Util\\Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:521
+#: customizer/packages/compatibility/src/Field.php:532
+#: customizer/packages/modules/css/src/CSS.php:133
+#: customizer/packages/modules/css/src/CSS.php:144
+#: customizer/packages/modules/postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" невірний формат у полі %s. Аргумент \"output\" повинен бути об'явлений як масив масивів."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:395
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" некоректне значення у полі %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: customizer/packages/compatibility/src/Field.php:279
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Не визначено налаштування для поля %1$s - див %2$s для докладної інформації про те, як правильно додавати поля."
+
+#. translators: %s represents the field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:268
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Знайдена помилка у полі %s - налаштунок замість налаштувань."
+
+#: customizer/packages/controls/image/src/Control/Image.php:87
+#: customizer/packages/controls/image/src/Field/Image.php:113
+#: customizer/packages/fields/typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "За замовчуванням"
+
+#. translators: The title.
+#: customizer/packages/modules/sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Налаштовування &#9656; %s"
+
+#: customizer/packages/modules/sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Налаштування"
+
+#: customizer/packages/controls/checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Вимк"
+
+#: customizer/packages/controls/checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Увімк"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Зовнішній відступ знизу"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Зовнішній відступ зверху"
+
+#. translators: %s represents the label of the row.
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Додати %s"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ширина"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Інтервал між словами"
+
+#: customizer/packages/fields/background/src/Background.php:196
+msgid "Auto"
+msgstr "Авто"
+
+#: customizer/lib/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важливе сповіщення про оновлення:"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:475
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Файл не вибрано"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:486
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Змінити файл"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:486
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Додати файл"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "рядок"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Оберіть сторінку"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Початкова"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Заголовні букви"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:362
+#: customizer/packages/fields/typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Немає"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Трансформація тексту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Вирівнювання тексту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "По ширині"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:69
+#: customizer/packages/fields/typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "По центру"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Обмеження: %s рядків"
+
+#: customizer/packages/controls/dimension/src/Control/Dimension.php:67
+#: customizer/packages/fields/dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Невірне значення"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирний 900 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:182
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Дуже жирний 900"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Дуже жирний 800 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:179
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Дуже жирний 800"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Жирний 700 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Жирний 700"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Напівжирний 600 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:174
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Напівжирний 600"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Середній 500 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Середній 500"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Звичайний 400 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:169
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Звичайний 400"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Книжковий 300 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Книжковий 300"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Тонкий 200 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Тонкий 200"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Дуже тонкий 100 курсив"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:162
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ультралегкий 100"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Відступ"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Висота"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Розмір"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Стиль шрифту"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:443
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "Зображення не вибрано"
+
+#: customizer/packages/controls/image/src/Control/Image.php:85
+#: customizer/packages/controls/image/src/Field/Image.php:114
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:453
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:485
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Видалити"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:454
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Змінити зображення"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:454
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Додати зображення"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:68
+#: customizer/packages/fields/typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Праворуч"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:67
+#: customizer/packages/fields/typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Ліворуч"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Знизу"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Зверху"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:63
+#: customizer/packages/fields/typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Інтервал між літерами"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:61
+#: customizer/packages/fields/typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Висота рядка"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:59
+#: customizer/packages/fields/typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Сімейство шрифтів"
+
+#: customizer/packages/fields/background/src/Background.php:152
+msgid "Background Position"
+msgstr "Позиція фону"
+
+#: customizer/packages/fields/background/src/Background.php:161
+#: customizer/packages/fields/dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "По центру знизу"
+
+#: customizer/packages/fields/background/src/Background.php:160
+#: customizer/packages/fields/dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "По центру в центрі"
+
+#: customizer/packages/fields/background/src/Background.php:159
+#: customizer/packages/fields/dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "По центру зверху"
+
+#: customizer/packages/fields/background/src/Background.php:164
+#: customizer/packages/fields/dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Праворуч знизу"
+
+#: customizer/packages/fields/background/src/Background.php:163
+#: customizer/packages/fields/dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Праворуч по центру"
+
+#: customizer/packages/fields/background/src/Background.php:162
+#: customizer/packages/fields/dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Праворуч зверху"
+
+#: customizer/packages/fields/background/src/Background.php:158
+#: customizer/packages/fields/dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Ліворуч знизу"
+
+#: customizer/packages/fields/background/src/Background.php:157
+#: customizer/packages/fields/dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Ліворуч по центру"
+
+#: customizer/packages/fields/background/src/Background.php:156
+#: customizer/packages/fields/dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Ліворуч зверху"
+
+#: customizer/packages/fields/background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Вкладення фону"
+
+#: customizer/packages/fields/background/src/Background.php:227
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: customizer/packages/fields/background/src/Background.php:228
+msgid "Fixed"
+msgstr "Зафіксована"
+
+#: customizer/packages/fields/background/src/Background.php:190
+msgid "Background Size"
+msgstr "Розмір фону"
+
+#: customizer/packages/fields/background/src/Background.php:195
+msgid "Contain"
+msgstr "Містити"
+
+#: customizer/packages/fields/background/src/Background.php:194
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: customizer/packages/fields/background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Повторення фону"
+
+#: customizer/packages/fields/background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Повторювати вертикально"
+
+#: customizer/packages/fields/background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Повторювати горизонтально"
+
+#: customizer/packages/fields/background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Повторити все"
+
+#: customizer/packages/fields/background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Не повторювати"
+
+#: customizer/packages/fields/background/src/Background.php:103
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: customizer/packages/fields/background/src/Background.php:84
+msgid "Background Color"
+msgstr "Колір фону"

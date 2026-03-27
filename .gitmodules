@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/industro"]
+	path = wp-content/themes/industro
+	url = https://github.com/Ihnatenko/autookulist.theme.git
