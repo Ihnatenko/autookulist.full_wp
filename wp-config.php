@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'autookulist' );
+define( 'DB_NAME', 'autookul_db' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'autookul_db' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'lB3pfV7iuV3zfD4ksR1k' );
 
 /** Database hostname */
-define( 'DB_HOST', 'mysql-8.4' );
+define( 'DB_HOST', 'autookul.mysql.tools' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
